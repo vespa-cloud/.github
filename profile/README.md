@@ -1,5 +1,5 @@
 
-<img src="https://cloud.vespa.ai/assets/logos/vespa-cloud-logo-full-black.svg" width="150px" alt="Vespa Cloud logo" />
+![Vespa Cloud logo](https://cloud.vespa.ai/assets/logos/vespa-cloud-logo-full-black.png)
 
 # Vespa Cloud Sample Applications
 
