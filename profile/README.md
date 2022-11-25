@@ -20,7 +20,7 @@ There is a growing interest in AI-powered vector representations of unstructured
 and searching efficiently over these representations.
 [vector-search](https://github.com/vespa-cloud/vector-search)
 describes how your organization can unlock the full potential of multimodal AI-powered vector representations
-using Vespa Cloud -- the industry-leading managed Vector Search Service.
+using Vespa Cloud - the industry-leading managed Vector Search Service.
 
 
 ## cord-19-search
