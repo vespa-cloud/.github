@@ -7,9 +7,11 @@ Welcome to the [Vespa Cloud](https://cloud.vespa.ai/) sample applications reposi
 
 First-time users should go through the [getting-started](https://cloud.vespa.ai/en/getting-started) guide first.
 
-Note that you can easily deploy the [Vespa.ai sample apps](https://github.com/vespa-engine/sample-apps)
-without changing the files - just follow the same steps as for [vector-search](#vector-search),
-adding security credentials.
+The Vespa sample applications are created to run on both self-hosted [Vespa.ai](https://vespa.ai/)
+and [Vespa Cloud](https://cloud.vespa.ai/) -
+check the repository at [Vespa.ai sample apps](https://github.com/vespa-engine/sample-apps).
+You can easily deploy all the sample applications without changing the files -
+just follow the same steps as for [vector-search](#vector-search), adding security credentials.
 
 
 ## vector-search
